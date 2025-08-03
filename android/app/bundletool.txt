@@ -1,0 +1,6 @@
+
+
+
+
+java -jar bundletool-all-1.15.6.jar build-apks --bundle=/home/hakim/dev/react/reactnative/huawei_ads/camAppTools/android/app/build/outputs/bundle/release/app-release.aab --output=/home/hakim/dev/react/reactnative/huawei_ads/camAppTools/android/app/build/outputs/bundle/release/app-release.apks  --ks=/home/hakim/dev/react/reactnative/huawei_ads/camAppTools/android/app/my-upload-key.keystore --ks-pass=file:/home/hakim/dev/react/reactnative/huawei_ads/camAppTools/android/app/keystore.pwd --ks-key-alias=my-key-alias  
+
